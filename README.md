@@ -11,4 +11,5 @@ Tested on this board: https://github.com/sx107/stm32-open-audio-interface
 
 
 References:
-TinyUSB: https://github.com/hathach/tinyusb
+- TinyUSB: https://github.com/hathach/tinyusb
+- STM32 TinyUSB intergation tutorial: https://github.com/hathach/tinyusb/discussions/633
